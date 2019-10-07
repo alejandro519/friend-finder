@@ -23,6 +23,7 @@ In order to run the app, navigate to the FRIEND-FINDER folder and find the serve
 3. This will take you to a page hosted locally.
     1. adding "/" will take you to the home page, from here you can navigate to the survey page
     2. adding "/survey" will take you directly to the survey page, from here, you can initiate the survey
+    3. adding "/api/friends" will take you to a list of friends displayed in json format
 
 **Additional functionalities to come** 
 
